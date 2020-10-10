@@ -2,11 +2,10 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
-#100daysofcode This is a simple desktop app written in Python With Tkinter modules, and other libraries like pytube & PIL<br>
+#100daysofcode This is a simple desktop app written in Python With Tkinter modules, and other libraries like pytube & PIL.<br>
 Click <a href="https://docs.python.org/3/library/tk.html"> here</a> to read more about **tkinter** module.<br>
-Click <a href="https://python-pytube.readthedocs.io/en/latest/"> here</a> to read more about **pytube** library.<rb>
+Click <a href="https://python-pytube.readthedocs.io/en/latest/"> here</a> to read more about **pytube** library.<br>
 Click <a href="https://pillow.readthedocs.io/en/stable/"> here</a> to read more about **PIL** library.
-
 
 ## #100daysofcode
 Almost a hundred days ago from now (01/10/2020), I decided to do the #100daysofcode challenge. This challenge is simply for someone to code every day and post on social media a picture shows that he wrote a code (every day). And than they share with us the final project.<br>
